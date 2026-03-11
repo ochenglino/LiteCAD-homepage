@@ -150,7 +150,7 @@ body {
 /* 视频容器 */
 .video-container {
     width: 100%;
-    max-width: 1050px;
+    max-width: 1000px;
     display: block;
     margin: 20px auto;
     border-radius: 8px;
